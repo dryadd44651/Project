@@ -1,8 +1,12 @@
 <h1>Project List</h1>
-  <ul>
-    <li>Java based Document Distributed System</li>
-    <li>Implemented Java Socket (TCP/IP) for Maekawa-Algorithm</li>
-  </ul>
+
+
+<details>
+  <summary>Java</summary>
+  <a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
+  <a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
+</details>
+
 <h2>Java</h2>
 <section>
 <a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
