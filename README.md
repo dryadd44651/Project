@@ -7,14 +7,15 @@
   <ul>
     <li><a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
     <li><a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
-  </ul>
-  <details>
+  
+  <li><details>
     <summary><b>Distributed System</b></summary>
     <ul>
       <li><a href="https://github.com/dryadd44651/Maekawa-Algorithm">Maekawa-Algorithm</a></li>
       <li><a href="https://github.com/dryadd44651/Ricart-Agrawala-algorithm">Ricart-Agrawala-algorithm</a></li>
     </ul>
    </details>
+   </ul>
 </details>
 
 
