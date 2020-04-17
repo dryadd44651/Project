@@ -85,3 +85,10 @@ GitHub : https://github.com/dryadd44651
 Parking System Video: https://www.youtube.com/watch?v=Hr47dkIY1cc
 
 Publish: https://ieeexplore.ieee.org/document/8397472
+
+
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
