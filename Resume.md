@@ -35,8 +35,8 @@ Python base Regression System for SFR Calibration
 - Developed the Regression with Numpy, cv2 and TensorFlow for reaching Imatest SFR
 OpenCV based Spatial Frequency Response Dynamic-link library
 - Developed SFR (Spatial Frequency Response) by ISO-12233 for project use
-``` 
-```
+
+
 - **Projects**
 ---
 **Pyspark based Stream Data Classification System** *03/2020 – 05/2020*
