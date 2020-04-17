@@ -1,12 +1,17 @@
 <h1>Project List</h1>
-
+  <ul>
+    <li>Java based Document Distributed System</li>
+    <li>Implemented Java Socket (TCP/IP) for Maekawa-Algorithm</li>
+  </ul>
 <h2>Java</h2>
 <pre>
 <a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
 <a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
 <b>Distributed System</b>
-<a href="https://github.com/dryadd44651/Maekawa-Algorithm">Maekawa-Algorithm</a>
-<a href="https://github.com/dryadd44651/Ricart-Agrawala-algorithm">Ricart-Agrawala-algorithm</a>
+<ul>
+<li><a href="https://github.com/dryadd44651/Maekawa-Algorithm">Maekawa-Algorithm</a></li>
+<li><a href="https://github.com/dryadd44651/Ricart-Agrawala-algorithm">Ricart-Agrawala-algorithm</a></li>
+</ul>
 </pre>
 <h2>C++/C</h2>
 
