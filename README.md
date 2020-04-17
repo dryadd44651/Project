@@ -16,8 +16,10 @@ print("hello world!")
 <h2>Java</h2>
 <details>
   <p><summary></summary></p>
+  ```
   <a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
   <a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
+  ```
 </details>
 
 <h2>Java</h2>
