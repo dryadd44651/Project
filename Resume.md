@@ -90,7 +90,7 @@ Publish: https://ieeexplore.ieee.org/document/8397472
 Right aligned columns
 
 
-<table border="0" width="100%">
+<table border="0" width="500">
 
   <tr>
     <td>January</td>
