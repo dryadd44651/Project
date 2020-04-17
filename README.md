@@ -4,7 +4,7 @@
     <li>Implemented Java Socket (TCP/IP) for Maekawa-Algorithm</li>
   </ul>
 <h2>Java</h2>
-<pre>
+<section>
 <a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
 <a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
 <b>Distributed System</b>
@@ -12,7 +12,7 @@
 <li><a href="https://github.com/dryadd44651/Maekawa-Algorithm">Maekawa-Algorithm</a></li>
 <li><a href="https://github.com/dryadd44651/Ricart-Agrawala-algorithm">Ricart-Agrawala-algorithm</a></li>
 </ul>
-</pre>
+</section>
 <h2>C++/C</h2>
 
 <pre>
