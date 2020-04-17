@@ -1,9 +1,9 @@
 <h1>Project List</h1>
 
 
-<h2>Java</h2>
+[//]:<h2>Java</h2>
 <details>
-  <summary></summary>
+  <summary><b>Java</b></summary>
   <ul>
     <li><a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
     <li><a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
@@ -17,19 +17,19 @@
    </details>
 </details>
 
-<h2>C++/C</h2>
+[//]:<h2>C++/C</h2>
 <details>
-  <summary></summary>
+  <summary><b>C++/C</b></summary>
   <ul>
     <li><a href="https://github.com/dryadd44651/Enhancement-and-Deblurring">Enhancement-and-Deblurring</a>
     <li><a href="https://github.com/dryadd44651/GoogleFileSystem">GoogleFileSystem</a>
   </ul>
 </details>
 
-<h2>Python</h2>
+[//]:<h2>Python</h2>
 
 <details>
-  <summary></summary>
+  <summary><b>Python</b></summary>
   <ul>
     <li><a href="https://github.com/dryadd44651/Digit-Recognizer">Digit-Recognizer</a>
   </ul>
