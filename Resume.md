@@ -65,8 +65,7 @@ OpenCV based Spatial Frequency Response Dynamic-link library
 -	Implemented HQS (half splitting quadratic) with FFT for image deconvolution
 
 
-``` 
-```
+
 - **Honors and Awards**
 ---
 “Image Deblurring”, IEEE SmartWorld; San Francisco,CA	*08/2017*
