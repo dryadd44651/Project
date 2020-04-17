@@ -31,8 +31,10 @@ MFC based Camera Module Inspection System
 - Implemented SNR (Signal-to-Noise Ratio), white pixel, black pixel for noise and dead pixel test
 - Implemented Optical Center, FOV for module install test
 - Implemented multi-thread/process for UPH improvement
+
 Python base Regression System for SFR Calibration
 - Developed the Regression with Numpy, cv2 and TensorFlow for reaching Imatest SFR
+
 OpenCV based Spatial Frequency Response Dynamic-link library
 - Developed SFR (Spatial Frequency Response) by ISO-12233 for project use
 
