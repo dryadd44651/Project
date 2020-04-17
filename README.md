@@ -1,4 +1,24 @@
 <h1>Project List</h1>
+<details>
+  <summary>Nested</summary>
+  <details>
+    <summary>Nested</summary>
+    <p>lolwat</p>
+    <details>
+      <summary>Nested</summary>
+      <p>lolwat</p>
+    </details>
+  </details>
+  <details>
+    <summary>Nested</summary>
+    <p>lolwat</p>
+  </details>
+  <details>
+    <summary>Nested</summary>
+    <p>lolwat</p>
+  </details>
+  <p>lolwat</p>
+</details>
 
 <h2>Java</h2>
 <details>
