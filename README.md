@@ -17,13 +17,11 @@ print("hello world!")
 <details>
   <summary></summary>
   <p>
-#### yes, even hidden code blocks!
-    ```python
-print("hello world!")
-```
-  <a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
-  <a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
-</p>
+  #### yes, even hidden code blocks!
+  ```python
+  print("hello world!")
+  ```
+  </p>
 </details>
 
 <h2>Java</h2>
