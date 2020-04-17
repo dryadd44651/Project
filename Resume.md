@@ -89,16 +89,15 @@ Publish: https://ieeexplore.ieee.org/document/8397472
 
 Right aligned columns
 
-| Option | Description |
-| ------:| ------------------------------:|
-| data   |       *08/2017* |
-<table>
-<tr>
-    <td>Key 1</td>
-    <td>Value 1</td>
-</tr>
-<tr>
-    <td>Key 2</td>
-    <td>Value 2</td>
-</tr>
+
+<table border="0" width="100%">
+
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
+  </tr>
 </table>
