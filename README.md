@@ -10,11 +10,11 @@
 
 <h2>C++/C</h2>
 
-<div style="white-space: pre">
+<pre>
 <a href="https://github.com/dryadd44651/Enhancement-and-Deblurring">Enhancement-and-Deblurring</a>
 <a href="https://github.com/dryadd44651/GoogleFileSystem">GoogleFileSystem</a>
 
-</div>
+</pre>
 
 <h2>Python</h2>
 
