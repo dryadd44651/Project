@@ -4,7 +4,7 @@
 
 ```
 <details>
-  <summary>```Java```</summary>
+  <summary><p>#Java</p></summary>
   <a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
   <a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
 </details>
