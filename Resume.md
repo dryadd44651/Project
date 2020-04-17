@@ -87,19 +87,15 @@ Parking System Video: https://www.youtube.com/watch?v=Hr47dkIY1cc
 Publish: https://ieeexplore.ieee.org/document/8397472
 
 
-Right aligned columns
 
 
-<table border="0" width="500">
-
-<table border="0" width="700wv">
-
+<table border="0" >
   <tr>
-    <td>sdafasdfasdfasdfsafaf</td>
-    <td>$100</td>
+    <td width="80%" >sdafasdfasdsfasdfsafaf</td>
+    <td width="20% align="right">$100</td>
   </tr>
   <tr>
     <td>February</td>
-    <td>$80</td>
+    <td align="right">$80</td>
   </tr>
 </table>
