@@ -2,7 +2,7 @@
 
 
 <details>
-  <summary>#Java</summary>
+  <summary>Java{.red .numberLines startFrom="1"}</summary>
   <a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
   <a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
 </details>
