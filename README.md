@@ -7,19 +7,19 @@
 
 #### yes, even hidden code blocks!
 
-```python
-print("hello world!")
-```
+
 
 </p>
 </details>
 <h2>Java</h2>
 <details>
   <p><summary></summary></p>
-  ```
+```python
+print("hello world!")
+```
   <a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
   <a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
-  ```
+
 </details>
 
 <h2>Java</h2>
