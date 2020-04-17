@@ -2,7 +2,7 @@
 
 
 <details>
-  <h2><summary>Java</summary></h2>
+  <summary><h2>Java</h2></summary>
   <a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
   <a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
 </details>
