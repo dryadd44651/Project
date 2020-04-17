@@ -9,7 +9,8 @@
 ```python
 print("hello world!")
 ```
-
+<a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
+<a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
 
 </p>
 </details>
