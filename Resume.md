@@ -92,8 +92,10 @@ Right aligned columns
 
 <table border="0" width="500">
 
+<table border="0" width="700wv">
+
   <tr>
-    <td>January</td>
+    <td>sdafasdfasdfasdfsafaf</td>
     <td>$100</td>
   </tr>
   <tr>
