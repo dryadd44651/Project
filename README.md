@@ -1,8 +1,8 @@
 <h1>Project List</h1>
 
-
+Java{.red .numberLines startFrom="1"}
 <details>
-  <summary>Java{.red .numberLines startFrom="1"}</summary>
+  <summary>Java</summary>
   <a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
   <a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
 </details>
