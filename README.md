@@ -1,32 +1,24 @@
 <h1>Project List</h1>
 
-## collapsible markdown?
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-```python
-print("hello world!")
-```
-<a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
-<a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
-
-</p>
-</details>
 <h2>Java</h2>
 <details>
   <summary></summary>
-  <p>
-  #### yes, even hidden code blocks!
-  ```python
-  print("hello world!")
-  ```
-  </p>
+  <ul>
+    <li><a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
+    <li><a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
+  </ul>
+  <h2>Distributed System</h2>
+  <details>
+    <summary></summary>
+    <ul>
+      <li><a href="https://github.com/dryadd44651/Maekawa-Algorithm">Maekawa-Algorithm</a></li>
+      <li><a href="https://github.com/dryadd44651/Ricart-Agrawala-algorithm">Ricart-Agrawala-algorithm</a></li>
+    </ul>
+   </details>
 </details>
 
 <h2>Java</h2>
-<section>
+
 <a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
 <a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
 <b>Distributed System</b>
@@ -34,7 +26,7 @@ print("hello world!")
 <li><a href="https://github.com/dryadd44651/Maekawa-Algorithm">Maekawa-Algorithm</a></li>
 <li><a href="https://github.com/dryadd44651/Ricart-Agrawala-algorithm">Ricart-Agrawala-algorithm</a></li>
 </ul>
-</section>
+
 <h2>C++/C</h2>
 
 <pre>
