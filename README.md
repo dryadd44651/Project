@@ -1,7 +1,7 @@
 <h1>Project List</h1>
 
 
-[//]:<h2>Java</h2>
+
 <details>
   <summary><b>Java</b></summary>
   <ul>
@@ -17,7 +17,7 @@
    </details>
 </details>
 
-[//]:<h2>C++/C</h2>
+
 <details>
   <summary><b>C++/C</b></summary>
   <ul>
@@ -26,7 +26,7 @@
   </ul>
 </details>
 
-[//]:<h2>Python</h2>
+
 
 <details>
   <summary><b>Python</b></summary>
