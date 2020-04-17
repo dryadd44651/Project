@@ -1,14 +1,14 @@
 <div align="center"><h1>Hua Chuang</h1></div>
 <div align="center">8590 Kentland Dr Frisco, TX 75034 | Phone: (346) 247-0711 | HXC170014@utdallas.edu</div>
 
-- **Education**
+### - Education
 ---
  	
 M.S. in Computer Science (GPA 3.5), University of Texas at Dallas, TX    *05/2019 – 12/2020*
 
 M.Eng. in Computer Science & Info. Systems (GPA 3.9) Tamkang University, Taiwan 	*06/2013 – 06/2015*
 
-- **Skills**
+### - Skills
 ---
 **Languages:** C/C++/STL, MFC, Python, Java, C#, R, MatLab, SQL, JavaScript/ES6, shell scripting
 
@@ -18,7 +18,7 @@ M.Eng. in Computer Science & Info. Systems (GPA 3.9) Tamkang University, Taiwan 
 
 **Knowledge:** OOP/OOD, Machine Learning, Computer Vision, Big data, Full stack
 
-- **Work Experience**
+### - Work Experience
 ---
 
 **Software Engineer**-Foxconn Technology, Jincheng, China and Taiwan, Taipei	 *12/2017-03/2019*
@@ -37,7 +37,7 @@ OpenCV based Spatial Frequency Response Dynamic-link library
 - Developed SFR (Spatial Frequency Response) by ISO-12233 for project use
 
 
-- **Projects**
+### - Projects
 ---
 **Pyspark based Stream Data Classification System** *03/2020 – 05/2020*
 
@@ -66,7 +66,7 @@ OpenCV based Spatial Frequency Response Dynamic-link library
 
 
 
-- **Honors and Awards**
+### - Honors and Awards
 ---
 “Image Deblurring”, IEEE SmartWorld; San Francisco,CA	*08/2017*
 
@@ -76,7 +76,7 @@ OpenCV based Spatial Frequency Response Dynamic-link library
 
 Oracle Certified Associate Java Programmer	*01/2012*
 
-- **Related Links**
+### - Related Links
 ---
 LinkedIn: https://www.linkedin.com/in/chuang-hua-4272b713a/
 
