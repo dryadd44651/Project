@@ -6,7 +6,9 @@
 <p>
 
 #### yes, even hidden code blocks!
-
+```python
+print("hello world!")
+```
 
 
 </p>
@@ -15,7 +17,8 @@
 <details>
   <summary></summary>
   <p>
-```python
+#### yes, even hidden code blocks!
+    ```python
 print("hello world!")
 ```
   <a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
