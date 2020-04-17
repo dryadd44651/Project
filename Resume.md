@@ -89,13 +89,3 @@ Publish: https://ieeexplore.ieee.org/document/8397472
 
 
 
-<table border="0" >
-  <tr>
-    <td width="200%" >sdafasdfasdsfasdfsafaf</td>
-    <td width="50% align="right">$100</td>
-  </tr>
-  <tr>
-    <td>February</td>
-    <td align="right">$80</td>
-  </tr>
-</table>
