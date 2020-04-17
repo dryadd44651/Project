@@ -1,8 +1,18 @@
 <h1>Project List</h1>
 
-```{.red .numberLines startFrom="1"}
+## collapsible markdown?
 
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
 ```
+
+</p>
+</details>
 <details>
   <summary><p># Java</p></summary>
   <a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
