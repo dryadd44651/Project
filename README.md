@@ -4,7 +4,7 @@
 <pre>
 <a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
 <a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
-<b size="30">Distributed System</b>
+# Distributed System
 <a href="https://github.com/dryadd44651/Maekawa-Algorithm">Maekawa-Algorithm</a>
 <a href="https://github.com/dryadd44651/Ricart-Agrawala-algorithm">Ricart-Agrawala-algorithm</a>
 </pre>
