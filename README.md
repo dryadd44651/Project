@@ -30,6 +30,18 @@
 <a href="https://github.com/dryadd44651/Digit-Recognizer">Digit-Recognizer</a>
 </pre>
 
+<style>
+h1 { 
+    display: block;
+    font-size: 0.9em;
+    margin-top: -1.91em;
+    margin-bottom: -1.91em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+</style>
+
 
 
 
