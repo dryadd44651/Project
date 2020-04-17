@@ -14,7 +14,7 @@ print("hello world!")
 </p>
 </details>
 <details>
-  <summary><p># Java</p></summary>
+  <summary><p>#### yes, even hidden code blocks!</p></summary>
   <a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
   <a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
 </details>
