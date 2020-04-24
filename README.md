@@ -37,6 +37,13 @@
 </details>
 
 
-
+<details>
+  <summary><b>R</b></summary>
+  <ul>
+    <li><a href="https://github.com/dryadd44651/Data_comparison">Data-comparison</a>
+    <li><a href="https://github.com/dryadd44651/Data_Estimation_and_simulation">Data-Estimation-and-simulation</a>
+    <li><a href="https://github.com/dryadd44651/Multiple-Linear-Regression">Multiple-Linear-Regression</a>
+  </ul>
+</details>
 
 
