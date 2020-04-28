@@ -33,6 +33,8 @@
   <summary><b>Python</b></summary>
   <ul>
     <li><a href="https://github.com/dryadd44651/Digit-Recognizer">Digit-Recognizer</a>
+    <li><a href="https://github.com/dryadd44651/Pyspark-based-Stream-Data-Classification-System">Pyspark-based-Stream-Data-Classification-System</a>
+      <li><a href="https://github.com/dryadd44651/Twitter-Sentiment-Analyzer">Twitter-Sentiment-Analyzer</a>
   </ul>
 </details>
 
