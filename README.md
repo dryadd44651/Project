@@ -2,13 +2,13 @@
 
 
 
-<details>
+<details open>
   <summary><b>Java</b></summary>
   <ul>
     <li><a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
     <li><a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
   
-  <li><details>
+  <li><details open>
     <summary><b>Distributed System</b></summary>
     <ul>
       <li><a href="https://github.com/dryadd44651/Maekawa-Algorithm">Maekawa-Algorithm</a></li>
@@ -19,7 +19,7 @@
 </details>
 
 
-<details>
+<details open>
   <summary><b>C++/C</b></summary>
   <ul>
     <li><a href="https://github.com/dryadd44651/Enhancement-and-Deblurring">Enhancement-and-Deblurring</a>
@@ -29,7 +29,7 @@
 
 
 
-<details>
+<details open>
   <summary><b>Python</b></summary>
   <ul>
     <li><a href="https://github.com/dryadd44651/Digit-Recognizer">Digit-Recognizer</a>
@@ -40,7 +40,7 @@
 </details>
 
 
-<details>
+<details open>
   <summary><b>R</b></summary>
   <ul>
     <li><a href="https://github.com/dryadd44651/Data-comparison">Data-comparison</a>
