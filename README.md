@@ -72,6 +72,8 @@
       <ul>
         <li><a href="https://github.com/dryadd44651/React-Photowall">React-Photowall</a>
         <li><a href="https://github.com/dryadd44651/JH-Com">JH-Com</a>
+        <li><a href="https://github.com/dryadd44651/Movie-Rater-React">Movie-Rater-React</a>
+          
       </ul>
       </details>
     </ul>
