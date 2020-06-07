@@ -7,7 +7,7 @@
   <ul>
     <li><a href="https://github.com/dryadd44651/Flashcard">Flashcard</a>
     <li><a href="https://github.com/dryadd44651/Hadoop">Hadoop</a>
-  
+    <li><a href="https://github.com/dryadd44651/HuaBase">HuaBase</a>
   <li><details open>
     <summary><b>Distributed System</b></summary>
     <ul>
