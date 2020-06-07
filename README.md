@@ -59,7 +59,8 @@
       <summary><b>Node.js</b></summary>
       <ul>
         <li><a href="https://github.com/dryadd44651/YelpCamp">YelpCamp</a>
-        <li><a href="https://github.com/dryadd44651/NodeJS-Chatting-Room">NodeJS-Chatting-Room</a>   
+        <li><a href="https://github.com/dryadd44651/NodeJS-Chatting-Room">NodeJS-Chatting-Room</a>
+        <li><a href="https://github.com/dryadd44651/Movie-Rater-Django">Movie-Rater-Django</a>
       </ul>
       </details>
     </ul>
