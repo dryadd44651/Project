@@ -84,7 +84,6 @@
         <li><a href="https://github.com/dryadd44651/JH-Com">JH-Com</a>
         <li><a href="https://github.com/dryadd44651/Movie-Rater-React">Movie-Rater-React</a>
         <li><a href="https://github.com/dryadd44651/Video-List/tree/master/react-app">React-Video-List</a>
-          
       </ul>
       </details>
     </ul>
