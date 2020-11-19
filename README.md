@@ -65,7 +65,6 @@
         <li><a href="https://github.com/dryadd44651/NodeJS-Chatting-Room">NodeJS-Chatting-Room</a>
         <li><a href="https://github.com/dryadd44651/Video-List/tree/master/Vidzy">NodeJS-Video-List</a>
         <li><a href="https://github.com/dryadd44651/JWT-Demo">JWT-Demo</a>
-          
       </ul>
       </details>
       <li><details open>
