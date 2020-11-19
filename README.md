@@ -64,6 +64,8 @@
         <li><a href="https://github.com/dryadd44651/YelpCamp">YelpCamp</a>
         <li><a href="https://github.com/dryadd44651/NodeJS-Chatting-Room">NodeJS-Chatting-Room</a>
         <li><a href="https://github.com/dryadd44651/Video-List/tree/master/Vidzy">NodeJS-Video-List</a>
+        <li><a href="https://github.com/dryadd44651/JWT-Demo">JWT-Demo</a>
+          
       </ul>
       </details>
       <li><details open>
@@ -84,6 +86,7 @@
         <li><a href="https://github.com/dryadd44651/JH-Com">JH-Com</a>
         <li><a href="https://github.com/dryadd44651/Movie-Rater-React">Movie-Rater-React</a>
         <li><a href="https://github.com/dryadd44651/Video-List/tree/master/react-app">React-Video-List</a>
+        <li><a href="https://github.com/dryadd44651/JWT-Demo/tree/main/react">React-JWT-Demo</a>
       </ul>
       </details>
     </ul>
